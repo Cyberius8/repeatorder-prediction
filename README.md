@@ -93,7 +93,7 @@ Brazilian E-Commerce Public Dataset by Olist
 - [x] EDA & Pembersihan Data
 - [x] Modeling Machine Learning
 - [x] Evaluasi Model
-- [ ] Visualisasi & Insight Bisnis (dalam proses)
+- [x] Visualisasi & Insight Bisnis
 - [ ] Dashboard Interaktif (dalam proses)
 
 ---
